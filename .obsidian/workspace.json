@@ -186,6 +186,10 @@
   },
   "active": "d1c85ab41b872461",
   "lastOpenFiles": [
+    "src/eda/eda/commands/reduce.py",
+    "plan/follow-ups.md",
+    "src/eda/eda/commands/cluster.py",
+    "src/eda/eda/commands/classify.py",
     "src/eda/eda/commands/preprocess.py",
     "src/eda/eda/commands/__init__.py",
     "src/eda/eda/commands",
@@ -194,9 +198,6 @@
     "src/eda/eda/utils/__init__.py",
     "src/eda/eda/utils",
     "src/eda/eda/data/schema.py",
-    "src/eda/eda/data/loader.py",
-    "src/eda/eda/data/__init__.py",
-    "src/eda/eda/data",
     "plan/prompts.md",
     "plan/progress.md",
     "plan/architecture.md",
@@ -221,7 +222,6 @@
     "Sessions/Closing AI Data Compliance Gaps in Microsoft Fabric.md",
     "Sessions/Building Next-Gen Apps with Power Platform and SQL Server 2025.md",
     "Sessions/Build data-driven agents with Microsoft OneLake and Microsoft Foundry.md",
-    "Sessions/Best Practices for Library Management with Microsoft Fabric Spark Environments.md",
-    "Sessions/Azure Cosmos DB as a Time Machine - Event Sourcing for Real-Time Intelligence.md"
+    "Sessions/Best Practices for Library Management with Microsoft Fabric Spark Environments.md"
   ]
 }
