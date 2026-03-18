@@ -12,8 +12,10 @@ tags:
 
 ## About
 
-With 13 years at Microsoft and 7 years of experience in the Real-Time Analytics space, I have contributed to the development of cutting-edge solutions, including Microsoft Fabric Real-Time Intelligence (2 years) and Azure Stream Analytics (5 years). Over my career, I have successfully shipped six products and services, driving innovation and efficiency across Microsoft.
-
+With 13 years at Microsoft and 7 years of experience in the Real-Time Analytics space, I have contributed to the development of cutting-edge solutions, including Microsoft Fabric Real-Time Intelligence (2 years) and Azure Stream Analytics (5 years). Over my career, I have successfully shipped six products and services, driving innovation and efficiency across Microsoft.
+
+
+
 As a passionate advocate for technology and customer-centric solutions, I have had the privilege of sharing insights at leading industry conferences, including Microsoft Build, Microsoft Ignite, Integrate, FabCon, and the European Cloud Summit. My expertise lies in solving complex customer pain points, making data more accessible, and enhancing real-time decision-making.
 
 ## Sessions & Workshops

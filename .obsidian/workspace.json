@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "cf7225f846e6312b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4e4078322ee916b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c85ab41b872461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speakers/Sara Lammini Rodriguez.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sara Lammini Rodriguez"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ee81356f886a582",
+    "type": "split",
+    "children": [
+      {
+        "id": "512e18819125e26f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "022cc50cadfe3ba8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "34d5956ddfa754ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#devops",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8facf86650ad0fcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 672.5
+  },
+  "right": {
+    "id": "e6a66675893f35f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c899ad69ebe68731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47ae11fd92fc9128",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Speakers/Sara Lammini Rodriguez.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sara Lammini Rodriguez"
+            }
+          },
+          {
+            "id": "009ff25e7343a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Speakers/Sara Lammini Rodriguez.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sara Lammini Rodriguez"
+            }
+          },
+          {
+            "id": "541546152f79126c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6f508665665f2b75",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f802c3e378926514",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Speakers/Sara Lammini Rodriguez.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sara Lammini Rodriguez"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d1c85ab41b872461",
+  "lastOpenFiles": [
+    "src",
+    "base1.base",
+    "View1.md",
+    "2026-03-18.md",
+    "canvas1.canvas",
+    "Speakers/Micah Price-Offermann.md",
+    "Sessions/Mirroring for SQL Server in Fabric- Inside the Replication Process.md",
+    "Sessions/Mastering Fabric Data Agents- From Setup to Success.md",
+    "Sessions/Make your Power BI Desktop report print-ready (in one hour or less).md",
+    "Sessions/Load Testing Performance for SQL Server.md",
+    "Sessions/How to build a 360-degree view of customers suppliers or contacts across OneLake.md",
+    "Sessions/From Stalled to Scaled - How Tolmar Built a Trusted Fabric Platform for Agents.md",
+    "Sessions/Driving Cost-Efficient Data Architectures for SQL Server, Azure SQL and Fabric using FinOps.md",
+    "Sessions/CORENOTE- OneLake, the unified data lake for the era of AI.md",
+    "Sessions/Designing an End-to-End Data Lifecycle in Microsoft Fabric - Move Transform Activate.md",
+    "Sessions/Decoding Fabric Licensing.md",
+    "Sessions/CORENOTE- The Fabric Data Warehouse Future-Proof Advantage.md",
+    "Sessions/CORENOTE- Building Agentic apps in Fabric with Cosmos DB and User Data Functions.md",
+    "Sessions/Closing AI Data Compliance Gaps in Microsoft Fabric.md",
+    "Sessions/Building Next-Gen Apps with Power Platform and SQL Server 2025.md",
+    "Sessions/Build data-driven agents with Microsoft OneLake and Microsoft Foundry.md",
+    "Sessions/Best Practices for Library Management with Microsoft Fabric Spark Environments.md",
+    "Sessions/Azure Cosmos DB as a Time Machine - Event Sourcing for Real-Time Intelligence.md",
+    "Sessions/Automate at Scale with Event-Driven Architectures and Business Events.md",
+    "Sessions/Architecting Intelligence - What Powers SQL Copilots.md",
+    "Sessions/AI-Driven MDM on Microsoft Fabric - Build the Intelligent Golden Record.md",
+    "Sessions/AI in Action - Microsoft Fabric for Data Science.md",
+    "Sessions/AI for BI - A Practical Guide to Avoiding Common Pitfalls.md"
+  ]
+}

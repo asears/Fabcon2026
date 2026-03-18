@@ -12,11 +12,16 @@ tags:
 
 ## About
 
-Alon Baram is a leading Product Manager at Microsoft Fabric & Power BI Embedded Analytics.
-A profound catalyst, possessing excellent matrix management and execution capabilities.
-Vast experience in driving various products throughout their life cycle stages, from inception to successful launch.
-Expertise in the areas of cloud-based enterprise services, and in particular Power BI developer scenarios.
-Key specialties: market evaluation, product requirements, functional specifications, lead generation, presales activities, and event support.
+Alon Baram is a leading Product Manager at Microsoft Fabric & Power BI Embedded Analytics.
+
+A profound catalyst, possessing excellent matrix management and execution capabilities.
+
+Vast experience in driving various products throughout their life cycle stages, from inception to successful launch.
+
+Expertise in the areas of cloud-based enterprise services, and in particular Power BI developer scenarios.
+
+Key specialties: market evaluation, product requirements, functional specifications, lead generation, presales activities, and event support.
+
 
 
 ## Sessions & Workshops
