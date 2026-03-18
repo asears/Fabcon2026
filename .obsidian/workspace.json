@@ -186,8 +186,22 @@
   },
   "active": "d1c85ab41b872461",
   "lastOpenFiles": [
-    "src",
-    "base1.base",
+    "src/eda/eda/commands/preprocess.py",
+    "src/eda/eda/commands/__init__.py",
+    "src/eda/eda/commands",
+    "src/eda/eda/utils/plotting.py",
+    "src/eda/eda/utils/io.py",
+    "src/eda/eda/utils/__init__.py",
+    "src/eda/eda/utils",
+    "src/eda/eda/data/schema.py",
+    "src/eda/eda/data/loader.py",
+    "src/eda/eda/data/__init__.py",
+    "src/eda/eda/data",
+    "plan/prompts.md",
+    "plan/progress.md",
+    "plan/architecture.md",
+    "LICENSE.md",
+    "src/eda/README.md",
     "View1.md",
     "2026-03-18.md",
     "canvas1.canvas",
@@ -208,11 +222,6 @@
     "Sessions/Building Next-Gen Apps with Power Platform and SQL Server 2025.md",
     "Sessions/Build data-driven agents with Microsoft OneLake and Microsoft Foundry.md",
     "Sessions/Best Practices for Library Management with Microsoft Fabric Spark Environments.md",
-    "Sessions/Azure Cosmos DB as a Time Machine - Event Sourcing for Real-Time Intelligence.md",
-    "Sessions/Automate at Scale with Event-Driven Architectures and Business Events.md",
-    "Sessions/Architecting Intelligence - What Powers SQL Copilots.md",
-    "Sessions/AI-Driven MDM on Microsoft Fabric - Build the Intelligent Golden Record.md",
-    "Sessions/AI in Action - Microsoft Fabric for Data Science.md",
-    "Sessions/AI for BI - A Practical Guide to Avoiding Common Pitfalls.md"
+    "Sessions/Azure Cosmos DB as a Time Machine - Event Sourcing for Real-Time Intelligence.md"
   ]
 }
