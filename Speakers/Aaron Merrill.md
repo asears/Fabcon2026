@@ -24,5 +24,6 @@ Aaron is a product manager on the Microsoft OneLake team focused on security. Hi
 - Twitter/X: 
 - Blog: https://www.linkedin.com/in/aajmerrill/
 
-## My Notes
+- GitHub:
 
+https://blog.fabric.microsoft.com/lv-lv/blog/advancing-databases-for-the-next-generation-of-applications?ft=Aaron%20Merrill:author

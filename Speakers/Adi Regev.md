@@ -12,7 +12,8 @@ tags:
 
 ## About
 
-Partner director Product Manager at Fabric, leading a group in Fabric platform responsible for enterprise crucial areas such as data governance, information management, tenant administration, data protection, and collaboration. With vast experience in running product groups, defining product roadmaps and building large-scale offerings, while accounting for - product excellence, customer value & delighting our users, maintaining growth mindset, market impact, competitive landscape, and ambitious timeframes. 
+Partner director Product Manager at Fabric, leading a group in Fabric platform responsible for enterprise crucial areas such as data governance, information management, tenant administration, data protection, and collaboration. With vast experience in running product groups, defining product roadmaps and building large-scale offerings, while accounting for - product excellence, customer value & delighting our users, maintaining growth mindset, market impact, competitive landscape, and ambitious timeframes. 
+
 A People person who always keeps in mind also team building as well as their individual career development. 
 
 ## Sessions & Workshops
@@ -24,6 +25,6 @@ A People person who always keeps in mind also team building as well as their ind
 - LinkedIn: https://www.linkedin.com/in/adiregev/
 - Twitter/X: 
 - Blog: 
-
+- GitHub:
 ## My Notes
 

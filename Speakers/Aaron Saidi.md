@@ -24,5 +24,8 @@ I am a PMP Certified Senior Product Manager, dedicated to driving excellence and
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 
+https://ignite.microsoft.com/en-US/sessions/LAB530-R1
+
+https://github.com/microsoft/ignite25-next-steps

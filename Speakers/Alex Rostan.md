@@ -30,5 +30,5 @@ AI Solutions Specialist / Cognitive Services Integration /  ChatBots / Copilot  
 - Twitter/X: https://twitter.com/rostanker
 - Blog: https://www.youtube.com/channel/UCiqr0w5JiBvhazk4alBTOnA
 
-## My Notes
+- GitHub:
 

@@ -24,5 +24,5 @@ Engineering manager with OneLake Shortcuts.
 - Twitter/X: 
 - Blog: https://pseudoaj.com
 
-## My Notes
+- GitHub:
 

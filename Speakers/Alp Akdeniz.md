@@ -24,5 +24,5 @@ Alp Akdeniz is a data and analytics consultant with over a decade of experience 
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

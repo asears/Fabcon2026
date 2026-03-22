@@ -24,5 +24,5 @@ Ajay brings over 22 years of experience as a Solutions Architect, specializing i
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

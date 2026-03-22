@@ -24,5 +24,5 @@ Aditya Badramraju is a Principal Program Manager with the AzureSQL team, special
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

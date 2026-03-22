@@ -24,5 +24,5 @@ Business continuity, infrastructure, virtualization, and cloud expert, author, b
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

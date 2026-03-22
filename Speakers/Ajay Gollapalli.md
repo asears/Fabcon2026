@@ -24,5 +24,5 @@ Ajay is a Data & AI Expert with 24 years of Industry knowledge in Data Warehousi
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

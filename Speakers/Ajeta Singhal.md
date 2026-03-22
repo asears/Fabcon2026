@@ -28,5 +28,5 @@ As a passionate advocate for technology and customer-centric solutions, I have h
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

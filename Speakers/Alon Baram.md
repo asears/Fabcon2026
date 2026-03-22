@@ -34,5 +34,5 @@ Key specialties: market evaluation, product requirements, functional specificati
 - Twitter/X: https://twitter.com/alonsomorning
 - Blog: 
 
-## My Notes
+- GitHub:
 

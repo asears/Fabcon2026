@@ -24,5 +24,5 @@ A seasoned AI engineer with a track record of innovation and thought leadership 
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

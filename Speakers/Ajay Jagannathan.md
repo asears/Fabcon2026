@@ -24,5 +24,5 @@ Ajay Jagannathan is a Principal Group Program Manager for SQL Server and hybrid 
 - Twitter/X: https://twitter.com/ajaymsft
 - Blog: https://techcommunity.microsoft.com/t5/sql-server-blog/bg-p/SQLServer
 
-## My Notes
+- GitHub:
 

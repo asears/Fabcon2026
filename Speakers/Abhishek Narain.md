@@ -24,5 +24,5 @@ Abhishek is a Principal PM Manager at Microsoft, specializing in the Data Integr
 - Twitter/X: https://twitter.com/narainabhishek
 - Blog: https://azure.microsoft.com/blog/author/abnarain/
 
-## My Notes
+- GitHub:
 
