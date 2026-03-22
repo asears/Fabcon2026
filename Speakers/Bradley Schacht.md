@@ -24,5 +24,5 @@ Bradley Schacht is a Principal Program Manager on the Microsoft Fabric product t
 - Twitter/X: http://twitter.com/bradleyschacht
 - Blog: http://bradleyschacht.com/
 
-## My Notes
+- GitHub:
 

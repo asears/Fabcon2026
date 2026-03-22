@@ -24,5 +24,5 @@ As Director of Product Management, Christian heads product management teams resp
 - Twitter/X: https://twitter.com/_christianWade
 - Blog: https://christianwade.wordpress.com/
 
-## My Notes
+- GitHub:
 

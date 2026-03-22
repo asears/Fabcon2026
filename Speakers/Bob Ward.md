@@ -24,5 +24,5 @@ Bob Ward is a Principal Architect for the Microsoft Azure Data team, which owns 
 - Twitter/X: https://twitter.com/bobwardms
 - Blog: https://cloudblogs.microsoft.com/sqlserver/
 
-## My Notes
+- GitHub:
 

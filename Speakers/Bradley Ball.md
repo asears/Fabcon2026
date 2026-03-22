@@ -24,5 +24,5 @@ Bradley Ball is a Sr. Technical Program Manager at Microsoft.  He is a Microsoft
 - Twitter/X: https://twitter.com/sqlballs
 - Blog: http://www.sqlballs.com
 
-## My Notes
+- GitHub:
 

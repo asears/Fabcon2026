@@ -24,5 +24,5 @@ Marketing professional within the Microsoft Purview Data Governance team
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

@@ -24,5 +24,5 @@ Chris Webb is a member of the Fabric Customer Advisory Team at Microsoft
 - Twitter/X: https://twitter.com/cwebb_bi
 - Blog: https://blog.crossjoin.co.uk/
 
-## My Notes
+- GitHub:
 

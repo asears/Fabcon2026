@@ -24,5 +24,5 @@ Partner Director Product Manager on the Fabric Platform
 - Twitter/X: https://twitter.com/arthiramasubra1?lang=en
 - Blog: 
 
-## My Notes
+- GitHub:
 

@@ -24,5 +24,5 @@ Arvind Shyamsundar is a Principal Product Manager at Microsoft, working on innov
 - Twitter/X: https://twitter.com/arvisam
 - Blog: https://aka.ms/arvindsh
 
-## My Notes
+- GitHub:
 

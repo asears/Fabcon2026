@@ -24,5 +24,5 @@ http://bit.ly/ALacerdaProfile
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

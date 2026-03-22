@@ -24,5 +24,5 @@ Aviv Ezrachi is a Principal Group Product Manager at Microsoft, leading the team
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

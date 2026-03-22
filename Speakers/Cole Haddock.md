@@ -24,5 +24,5 @@ I am a seasoned Solution Architect with over a decade of experience in deliverin
 - Twitter/X: https://twitter.com/AceHaddock
 - Blog: https://d365ace.com
 
-## My Notes
+- GitHub:
 

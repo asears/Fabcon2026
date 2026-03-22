@@ -28,5 +28,5 @@ With a passion for helping others, David currently works on numerous engagements
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

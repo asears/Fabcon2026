@@ -24,5 +24,5 @@ Bret Myers is a product manager on the Fabric Data Warehouse team at Microsoft w
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

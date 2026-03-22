@@ -24,5 +24,5 @@ Benjamin Ries-Roncalli is a data and analytics professional at MAQ Software, spe
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

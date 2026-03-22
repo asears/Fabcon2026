@@ -24,5 +24,5 @@ A data-driven architect with deep expertise in building scalable analytics envir
 - Twitter/X: 
 - Blog: https://github.com/Curts0/PyTabular
 
-## My Notes
+- GitHub:
 

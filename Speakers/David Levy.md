@@ -24,5 +24,5 @@ David Levy is a Principal Program Manager at Microsoft, driving SQL connectivity
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

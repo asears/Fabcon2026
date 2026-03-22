@@ -24,5 +24,5 @@ https://www.linkedin.com/in/ashit-gosalia/
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

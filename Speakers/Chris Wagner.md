@@ -24,5 +24,5 @@ Chris has been working in the Data and Analytics space for nearly 20 years. Chri
 - Twitter/X: https://twitter.com/KratosBi
 - Blog: Https://www.Kratosbi.com 
 
-## My Notes
+- GitHub:
 

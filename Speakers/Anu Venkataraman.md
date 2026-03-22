@@ -24,5 +24,5 @@ Anu, a Senior Program Manager at Microsoft, boasts over 14 years of extensive ex
 - Twitter/X: 
 - Blog: https://blog.fabric.microsoft.com/en-CA/blog/profiling-microsoft-fabric-spark-notebooks-with-sparklens/
 
-## My Notes
+- GitHub:
 

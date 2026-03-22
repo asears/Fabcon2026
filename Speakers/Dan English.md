@@ -24,5 +24,5 @@ Dan is a Principal Program Manager at Microsoft working on the Microsoft Fabric 
 - Twitter/X: https://twitter.com/denglishbi
 - Blog: https://denglishbi.wordpress.com
 
-## My Notes
+- GitHub:
 

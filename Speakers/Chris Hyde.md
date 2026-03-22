@@ -24,5 +24,5 @@ Chris Hyde (he/him) is a Microsoft Data Platform MVP based in Albuquerque, New M
 - Twitter/X: https://twitter.com/ChrisHyde325
 - Blog: https://www.hydrate.consulting/
 
-## My Notes
+- GitHub:
 

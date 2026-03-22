@@ -24,5 +24,5 @@ Sr. Solution Architect at Microsoft. I started programming as a kid and never st
 - Twitter/X: https://twitter.com/OriginalHave
 - Blog: https://medium.com/@christianhenrikreich
 
-## My Notes
+- GitHub:
 

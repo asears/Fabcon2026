@@ -24,5 +24,5 @@ Darren is a seasoned leader in business strategy, complex deal negotiations, and
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

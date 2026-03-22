@@ -24,5 +24,5 @@ Sr program manager focusing on Metrics and Copilot in Power BI.  Design trained.
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

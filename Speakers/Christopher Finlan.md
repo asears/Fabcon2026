@@ -24,5 +24,5 @@ TBA
 - Twitter/X: https://x.com/cmfinlan
 - Blog: https://christopherfinlan.com
 
-## My Notes
+- GitHub:
 

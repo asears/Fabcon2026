@@ -24,5 +24,5 @@ Chike is an expert in business and technology transformation, with over a decade
 - Twitter/X: https://twitter.com/ceduputa
 - Blog: 
 
-## My Notes
+- GitHub:
 

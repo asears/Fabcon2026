@@ -24,5 +24,5 @@ Christopher Marcolis is a dynamic technology leader with a deep passion for inno
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

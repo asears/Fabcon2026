@@ -20,9 +20,10 @@ Principal Program Manager in Azure SQL, with a career in IT spanning since 1997,
 
 ## Contact & Social
 
-- LinkedIn: 
-- Twitter/X: 
-- Blog: 
+- LinkedIn:  https://www.linkedin.com/in/davidemauri/
+- Twitter/X:  https://x.com/mauridb
+- Blog: https://www.davidemauri.it/
+ 
+- GitHub: https://github.com/yorek
 
-## My Notes
-
+https://github.com/Azure-Samples/azure-sql-db-developers-workshop/blob/main/presentation_slides/FabricCon_Sunday_Workshop_Presentation_Slides.pdf

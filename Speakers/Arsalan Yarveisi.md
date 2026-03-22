@@ -24,5 +24,5 @@ A member of Fabric Enterprise Platform product team, focused on capacity managem
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

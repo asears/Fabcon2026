@@ -24,5 +24,5 @@ The mission of Azure Data is to help customers build a new class of data-first a
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

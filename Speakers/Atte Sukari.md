@@ -24,5 +24,5 @@ I've gained valuable experience as a data engineer with a business-oriented mind
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

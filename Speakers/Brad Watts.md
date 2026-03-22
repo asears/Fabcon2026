@@ -24,5 +24,5 @@ Brad Watts is a passionate and experienced product manager working on Real-Time 
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

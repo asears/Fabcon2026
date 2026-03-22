@@ -24,5 +24,5 @@ Responsible for building next generation of Big Data and Data Engineering produc
 - Twitter/X: https://x.com/MrDanielCoelho
 - Blog: 
 
-## My Notes
+- GitHub:
 

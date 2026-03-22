@@ -24,5 +24,5 @@ Danny Kruge is a Microsoft Data Plaform MVP with a robust background in SQL Serv
 - Twitter/X: 
 - Blog: https://azurebeerbrains.blogspot.com/
 
-## My Notes
+- GitHub:
 

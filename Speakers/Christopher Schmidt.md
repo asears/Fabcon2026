@@ -24,5 +24,5 @@ Christopher Schmidt is a Principal Program Manager with deep expertise in real-t
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

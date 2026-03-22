@@ -24,5 +24,5 @@ Chandler Stevens is a seasoned technology leader with over three decades of expe
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

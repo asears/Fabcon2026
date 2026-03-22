@@ -24,5 +24,5 @@ Chafia Aouissi is the Group Product Manager for digital twin products at Microso
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 
