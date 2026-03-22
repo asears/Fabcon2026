@@ -32,7 +32,7 @@ In this case study, Protective Industries transformed fragile pipelines by shift
 
 -
 
-GitHub:
+## My Notes
 
 
 ## Action Items

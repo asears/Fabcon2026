@@ -33,7 +33,7 @@ What is new with Azure Database for PostgreSQL Mirroring in Fabric? Explore the 
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

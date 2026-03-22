@@ -32,7 +32,7 @@ Adopting Microsoft Fabric with minimal Azure experience? Discover the essentials
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -33,7 +33,7 @@ Curious about how organizations cut months off their Microsoft Fabric migration 
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

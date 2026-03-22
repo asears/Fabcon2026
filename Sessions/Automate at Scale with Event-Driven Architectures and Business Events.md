@@ -33,7 +33,7 @@ Disconnected systems and manual processes slow your business response time. Even
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

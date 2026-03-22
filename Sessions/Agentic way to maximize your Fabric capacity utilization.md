@@ -33,7 +33,7 @@ Overpaying for Fabric capacity? Discover an agentic workload that continuously r
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

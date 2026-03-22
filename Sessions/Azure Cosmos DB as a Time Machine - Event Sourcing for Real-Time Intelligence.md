@@ -37,7 +37,7 @@ What if your database was a time machine? With Cosmos DB and event sourcing, eve
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -44,7 +44,7 @@ The takeaway is that approaches might differ, but the knowledge carries over.
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -40,7 +40,7 @@ This session demonstrates the full architecture with a live demo - capturing DQ 
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -36,7 +36,7 @@ Every BI platform now includes AI—from Microsoft Fabric CoPilot to standalone 
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -38,7 +38,7 @@ Join this session to learn how OneLake delivers a unified SaaS data lake for you
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

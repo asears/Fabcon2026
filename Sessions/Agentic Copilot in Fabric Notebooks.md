@@ -33,7 +33,7 @@ Discover how agentic Copilot transforms Fabric notebooks into a proactive, conte
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

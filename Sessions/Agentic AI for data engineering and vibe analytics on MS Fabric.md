@@ -32,7 +32,7 @@ This session introduces how Agentic AI combined with MS Fabric transforms data e
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -37,7 +37,7 @@ Don't start over. Learn how SQL professionals can leverage their existing skills
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

@@ -37,7 +37,7 @@ Organizations must act on data fast—but speed without governance creates risk.
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items

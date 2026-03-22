@@ -38,7 +38,7 @@ Get the most out of your investments with Azure Databricks. Learn how the deep i
 
 -
 
-## My Notes
+GitHub:
 
 
 ## Action Items
