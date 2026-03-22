@@ -1,5 +1,11 @@
 # Copilot Instructions for FabCon 2026 Vault
 
+## Notes
+
+- pip doesn't work in this repo, use `uv pip` instead
+- powershell is used
+- ensure venv is activated before running python commands (check for `(Fabcon2026)` in terminal prompt)
+
 ## Project Purpose
 
 This is an Obsidian vault for analyzing sessions and speakers at **FabCon 2026** and **SQLCON 2026** (co-located conferences in Atlanta, March 16-20, 2026). It contains 267 sessions/workshops, 358 speaker profiles, and 19 tracks with dynamic views powered by **Obsidian Bases** (a core plugin).
@@ -93,9 +99,9 @@ session_type: "Breakout Session"  # Breakout, Workshop, CORENOTE, Sponsor Speake
 
 Run `Scripts/patch_start_times.py` after importing new sessions to add `start_time_24h` field:
 
-```bash
+```powershell
 cd /path/to/vault
-python Scripts/patch_start_times.py
+uv run Scripts/patch_start_times.py
 ```
 
 This script safely skips files that already have the field, making it safe to run multiple times.
@@ -159,22 +165,22 @@ Located at `src/eda/`, this is a data analysis package for session/speaker proce
 - **Optional extras:** umap, hdf5, sql, excel, parquet, aws, gcp, xml, html, performance
 
 To install in development:
-```bash
+```powershell
 cd src/eda
-pip install -e .
+uv pip install -e .
 ```
 
 Run CLI tool:
-```bash
-eda --help
+```powershell
+uv run eda --help
 ```
 
 ### `Scripts/patch_start_times.py`
 
 Utility to add/update `start_time_24h` field on all session and workshop files. Safe to run multiple times.
 
-```bash
-python Scripts/patch_start_times.py
+```powershell
+uv run Scripts/patch_start_times.py
 ```
 
 ## Key Planning Files
