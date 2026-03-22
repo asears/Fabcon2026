@@ -24,5 +24,5 @@ Anavi Nahar leads the Azure Databricks product group. With almost a decade of ex
 - Twitter/X: http://x.com/AnaviNahar
 - Blog: 
 
-## My Notes
+- GitHub:
 

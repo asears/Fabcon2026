@@ -24,5 +24,5 @@ As Principal PM Manager, Anton leads all product management aspects of Informati
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

@@ -24,5 +24,5 @@ With a MS in Mathematical Sciences, Andy has spread the joy of business intellig
 - Twitter/X: https://twitter.com/RedStickData
 - Blog: https://www.linkedin.com/in/andyparkerson/
 
-## My Notes
+- GitHub:
 

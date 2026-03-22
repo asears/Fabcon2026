@@ -24,5 +24,5 @@ Product leader for Azure SQL, focused on database migrations to Azure, Azure Arc
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

@@ -24,5 +24,5 @@ Principal Group Product Manager on Microsoft's SQL Engineering team. Host of Dat
 - Twitter/X: https://twitter.com/AnalyticAnna
 - Blog: https://aka.ms/azuresqlyt
 
-## My Notes
+- GitHub:
 

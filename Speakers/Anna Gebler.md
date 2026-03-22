@@ -24,5 +24,5 @@ After completing her PhD in theoretical physics, Anna embarked on a data governa
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

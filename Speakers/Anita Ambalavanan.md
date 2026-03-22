@@ -24,5 +24,5 @@ Anita is a Product Manager at Microsoft where she works on Power BI. She previou
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

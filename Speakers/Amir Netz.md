@@ -24,5 +24,5 @@ Amir Netz is a Technical Fellow and chief architect of the Microsoft Business In
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

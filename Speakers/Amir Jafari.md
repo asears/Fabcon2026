@@ -24,5 +24,5 @@ TBD
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

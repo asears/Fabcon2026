@@ -24,5 +24,5 @@ Amir Sarir is a Full-Stack Senior Software Engineer at Motio, leading efforts to
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 

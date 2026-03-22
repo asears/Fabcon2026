@@ -24,5 +24,5 @@ Current Sr. Technical Program Manager (Maps in Fabric & Azure Maps) @Microsoft. 
 - Twitter/X: 
 - Blog: 
 
-## My Notes
+- GitHub:
 
